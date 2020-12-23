@@ -22,7 +22,7 @@
 ### 프로그램 실행 화면 ####
 
 
-### 1.로그인 화면###
+### 1.로그인 화면
 
 ![image](https://user-images.githubusercontent.com/52352476/102688776-4ea77380-423c-11eb-805b-c09908dcefbd.png) 
 
