@@ -15,11 +15,14 @@
 ![image](https://user-images.githubusercontent.com/52352476/102688756-0be59b80-423c-11eb-9162-c9ff94bc50c1.png)
 
 
+###  팀원 역할 ###
+![역할 분담](https://user-images.githubusercontent.com/52352476/103042801-1b5b4080-45be-11eb-9338-9f83b6abad4e.PNG)
+
 
 ### 프로그램 실행 화면 ####
 
 
-### 1.로그인 화면####
+### 1.로그인 화면###
 
 ![image](https://user-images.githubusercontent.com/52352476/102688776-4ea77380-423c-11eb-805b-c09908dcefbd.png) 
 
@@ -45,6 +48,7 @@
 
 ![image](https://user-images.githubusercontent.com/52352476/102688807-9f1ed100-423c-11eb-8933-daf382dcb029.png)
 
+### 피드백 저장 사진 ###
 ![image](https://user-images.githubusercontent.com/52352476/102688810-a34aee80-423c-11eb-9626-6237c14fb429.png)
 
 
