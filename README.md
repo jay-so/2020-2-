@@ -16,7 +16,7 @@
 
 
 ###  팀원 역할 ###
-![역할 분담](https://user-images.githubusercontent.com/52352476/103042801-1b5b4080-45be-11eb-9338-9f83b6abad4e.PNG)
+![기여도](https://user-images.githubusercontent.com/52352476/103049652-ba3f6700-45d5-11eb-99c0-5f9e6c52993f.PNG)
 
 
 ### 프로그램 실행 화면 ####
