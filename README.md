@@ -14,6 +14,10 @@
 
 ![image](https://user-images.githubusercontent.com/52352476/102688756-0be59b80-423c-11eb-9162-c9ff94bc50c1.png)
 
+### 팀원 역활 ###
+
+![기여도](https://user-images.githubusercontent.com/52352476/103198137-f3a40980-492a-11eb-9ce2-223dd2c294b9.PNG)
+
 
 ### 프로그램 실행 화면 ####
 
