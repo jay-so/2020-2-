@@ -15,10 +15,6 @@
 ![image](https://user-images.githubusercontent.com/52352476/102688756-0be59b80-423c-11eb-9162-c9ff94bc50c1.png)
 
 
-###  팀원 역할 ###
-![기여도](https://user-images.githubusercontent.com/52352476/103049652-ba3f6700-45d5-11eb-99c0-5f9e6c52993f.PNG)
-
-
 ### 프로그램 실행 화면 ####
 
 
@@ -62,8 +58,11 @@
 
 ### 5.이동 페이지 ###
 
+### 식품 안전나라 ###
 
 ![image](https://user-images.githubusercontent.com/52352476/102688826-c37aad80-423c-11eb-9b2b-73eee198acbf.png)
+
+### 식품 안전처 ###
 
 ![image](https://user-images.githubusercontent.com/52352476/102688828-c5dd0780-423c-11eb-8e6e-cf869aad3452.png)
 
