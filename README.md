@@ -1,8 +1,30 @@
-# java-project
-2020년 2학기에 진행했던 자바 프로젝트 내용입니다.
+# Youth Mall Management Program (java)
 
-주제: 서울, 경기 청년몰 관리 
+프로젝트 주제: 전통 시장 활성화와 서울, 경기의 청년몰 관리 
 
+### Reason
+청년몰이 폐업하지 않고, 좀 더 편리하게 사업을 이어갈 수 있도록 도움을 주는 청년몰을 관리할 수 있는 기능이 포함된 
+프로그램을 개발하기 위해 제작했습니다.
+
+
+### Project Plan
+10/9 ~ 11/2: 팀 구성 및 주제 선정,자료조사<br/>
+11/4 ~ 11/16: 프로젝트의 기능 구성 및 설계<br/>
+11/18 ~ 12/4: 코딩 및 수정, DB연결<br/>
+12/5 ~ 12/10: 프로젝트 테스트 및 DB 테스트<br/>
+12/10 ~ 12/19: 최종 보고서 작성 및 발표<br/>
+
+
+### 사용 SW
+IDE: Eclipse<br/>
+Language: Java<br/>
+DB: MySQL<br/>
+
+
+### 팀원 역활 ###
+
+![기여도](https://user-images.githubusercontent.com/52352476/103198137-f3a40980-492a-11eb-9ce2-223dd2c294b9.PNG)
+ 
  
  #### Flow Char #####
  
@@ -13,10 +35,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/52352476/102688756-0be59b80-423c-11eb-9162-c9ff94bc50c1.png)
-
-### 팀원 역활 ###
-
-![기여도](https://user-images.githubusercontent.com/52352476/103198137-f3a40980-492a-11eb-9ce2-223dd2c294b9.PNG)
 
 
 ### 프로그램 실행 화면 ####
